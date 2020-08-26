@@ -61,5 +61,4 @@ public class Ascensor1 {
         total = pisos + sotanos;
         return total;
     }
-    
 }

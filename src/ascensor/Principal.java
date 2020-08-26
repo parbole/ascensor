@@ -175,8 +175,7 @@ public class Principal extends javax.swing.JFrame {
         
         String pActual = Integer.toString(pisoActual);
         
-        labelPosicionAscensor.setText(texto + pActual);
-                
+        labelPosicionAscensor.setText(texto + pActual);        
     }//GEN-LAST:event_botonSubirActionPerformed
     
     //cuando se presiona el boton bajar
